@@ -1,5 +1,5 @@
-hackathon
-============
+MMS2-Recommender Interfaces
+===========================
 This readme provides information on the current file-structure, data stored and methods, which may be useful for several components.
 Please feel free to adapt it.
 
